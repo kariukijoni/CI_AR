@@ -1,0 +1,28 @@
+/*Fix long dropdwon text*/
+.dropdown-menu {
+    width: 100%;
+}
+
+.active-tab {
+	color: #f00;
+}
+
+.dropdown-menu li a {
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+.progress {
+	margin-bottom: 0px !important;
+}
+
+.progress-bar {
+	color: #000000 !important;
+	font-weight: bold;
+}
+
+thead input {
+    width: 100%;
+    padding: 3px;
+    box-sizing: border-box;
+}
